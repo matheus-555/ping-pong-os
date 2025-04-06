@@ -1,0 +1,36 @@
+main: inicio
+30 tarefas somando 1000000 vezes cada, aguarde...
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 3 exited, execution time 13734 ms, processor time 409 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 4 exited, execution time 13734 ms, processor time 437 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 5 exited, execution time 13734 ms, processor time 447 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 6 exited, execution time 13734 ms, processor time 422 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 7 exited, execution time 13734 ms, processor time 482 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 8 exited, execution time 13734 ms, processor time 455 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 9 exited, execution time 13734 ms, processor time 442 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 10 exited, execution time 13734 ms, processor time 423 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 11 exited, execution time 13734 ms, processor time 454 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 12 exited, execution time 13734 ms, processor time 424 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 13 exited, execution time 13734 ms, processor time 464 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 14 exited, execution time 13734 ms, processor time 420 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 15 exited, execution time 13734 ms, processor time 455 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 16 exited, execution time 13734 ms, processor time 468 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 17 exited, execution time 13734 ms, processor time 452 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 18 exited, execution time 13734 ms, processor time 454 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 19 exited, execution time 13734 ms, processor time 438 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 20 exited, execution time 13734 ms, processor time 506 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 21 exited, execution time 13734 ms, processor time 452 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 22 exited, execution time 13734 ms, processor time 457 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 23 exited, execution time 13734 ms, processor time 456 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 24 exited, execution time 13734 ms, processor time 448 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 25 exited, execution time 13734 ms, processor time 467 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 26 exited, execution time 13734 ms, processor time 432 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 27 exited, execution time 13734 ms, processor time 445 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 28 exited, execution time 13734 ms, processor time 428 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 29 exited, execution time 13734 ms, processor time 386 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 30 exited, execution time 13734 ms, processor time 465 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 31 exited, execution time 13734 ms, processor time 432 ms, 1000001 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 32 exited, execution time 13734 ms, processor time 460 ms, 1000001 activations
+Soma deu 30000000, valor correto!
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 0 exited, execution time 13734 ms, processor time 0 ms, 18 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 2 exited, execution time 13734 ms, processor time 19 ms, 66152 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 1 exited, execution time 13734 ms, processor time 0 ms, 30000049 activations

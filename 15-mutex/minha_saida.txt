@@ -1,0 +1,16 @@
+# DEBUG in PPOS_CORE.c -> task_init: instalada tarefa 0 (body function 0x(nil))
+# DEBUG in PPOS_CORE.c -> task_init: instalada tarefa 1 (body function 0x0x5556a1742870)
+# DEBUG in PPOS_CORE.c -> task_init: instalada tarefa 2 (body function 0x0x5556a1741399)
+# DEBUG in PPOS_CORE.c -> task_init: instalada tarefa 3 (body function 0x0x5556a174141d)
+# DEBUG in PPOS_CORE.c -> task_init: instalada tarefa 4 (body function 0x0x5556a17413c5)
+# DEBUG in PPOS_CORE.c -> task_init: instalada tarefa 5 (body function 0x0x5556a17413f1)
+SAO BERNARDO DO CAMPO
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 2 exited, execution time 2200 ms, processor time 0 ms, 23 activations
+SAO CAETANO DO SUL
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 3 exited, execution time 4100 ms, processor time 0 ms, 21 activations
+DIADEMA
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 4 exited, execution time 4900 ms, processor time 0 ms, 10 activations
+SANTO ANDRE
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 5 exited, execution time 6100 ms, processor time 0 ms, 14 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 0 exited, execution time 6100 ms, processor time 0 ms, 4 activations
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 1 exited, execution time 6100 ms, processor time 0 ms, 72 activations

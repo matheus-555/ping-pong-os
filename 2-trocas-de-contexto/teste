@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include "queue.h"
+
+#define STD_MSG_ERRO(msg) "### ERRO: " msg "\n" "###" "\n"
+
+// int main(int argc, char const *argv[])
+// {
+//     /* code */
+
+
+//     fprintf(stderr, STD_MSG_ERRO("sensacional"));
+
+//     return 0;
+// }

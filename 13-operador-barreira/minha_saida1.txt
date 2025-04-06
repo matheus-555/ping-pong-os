@@ -1,0 +1,198 @@
+# DEBUG in PPOS_CORE.c -> task_exit: tarefa 0 exited, execution time 0 ms, processor time 0 ms, 2 activations
+p1 produziu 28
+p2 produziu 43
+p3 produziu 72
+		c1 consumiu 28
+		c2 consumiu 43
+p1 produziu 79
+p2 produziu 23
+p3 produziu 70
+		c1 consumiu 72
+		c2 consumiu 79
+p1 produziu 55
+p2 produziu 39
+p3 produziu 69
+		c1 consumiu 23
+		c2 consumiu 70
+p1 produziu 1
+p2 produziu 41
+		c1 consumiu 55
+		c2 consumiu 39
+p3 produziu 40
+p1 produziu 5
+		c1 consumiu 69
+		c2 consumiu 1
+p2 produziu 25
+p3 produziu 95
+		c1 consumiu 41
+		c2 consumiu 40
+p2 produziu 4
+p1 produziu 42
+		c1 consumiu 5
+		c2 consumiu 25
+p2 produziu 54
+p3 produziu 79
+		c1 consumiu 95
+		c2 consumiu 4
+p2 produziu 55
+p1 produziu 98
+		c1 consumiu 42
+		c2 consumiu 54
+p2 produziu 8
+p3 produziu 60
+		c1 consumiu 79
+		c2 consumiu 55
+p2 produziu 33
+p1 produziu 26
+		c1 consumiu 98
+		c2 consumiu 8
+p2 produziu 17
+p3 produziu 44
+		c1 consumiu 60
+		c2 consumiu 33
+p2 produziu 76
+p1 produziu 91
+		c1 consumiu 26
+		c2 consumiu 17
+p2 produziu 10
+p3 produziu 32
+		c1 consumiu 44
+		c2 consumiu 76
+p2 produziu 18
+p1 produziu 54
+		c1 consumiu 91
+		c2 consumiu 10
+p2 produziu 3
+p3 produziu 95
+		c1 consumiu 32
+		c2 consumiu 18
+p2 produziu 75
+p1 produziu 73
+		c1 consumiu 54
+		c2 consumiu 3
+p2 produziu 52
+p3 produziu 13
+		c1 consumiu 95
+		c2 consumiu 75
+p2 produziu 43
+p1 produziu 51
+		c1 consumiu 73
+		c2 consumiu 52
+p2 produziu 54
+p3 produziu 81
+		c1 consumiu 13
+		c2 consumiu 43
+p2 produziu 56
+p1 produziu 77
+		c1 consumiu 51
+		c2 consumiu 54
+p2 produziu 76
+p3 produziu 59
+		c1 consumiu 81
+		c2 consumiu 56
+p2 produziu 20
+p1 produziu 29
+		c1 consumiu 77
+		c2 consumiu 76
+p2 produziu 39
+p3 produziu 74
+		c1 consumiu 59
+		c2 consumiu 20
+p2 produziu 28
+p1 produziu 46
+		c1 consumiu 29
+		c2 consumiu 39
+p2 produziu 35
+p3 produziu 62
+		c1 consumiu 74
+		c2 consumiu 28
+p2 produziu 72
+p1 produziu 50
+		c1 consumiu 46
+		c2 consumiu 35
+p2 produziu 5
+p3 produziu 49
+		c1 consumiu 62
+		c2 consumiu 72
+p2 produziu 40
+p1 produziu 15
+		c1 consumiu 50
+		c2 consumiu 5
+p2 produziu 81
+p3 produziu 59
+		c1 consumiu 49
+		c2 consumiu 40
+p2 produziu 69
+p1 produziu 83
+		c1 consumiu 15
+		c2 consumiu 81
+p2 produziu 53
+p3 produziu 43
+		c1 consumiu 59
+		c2 consumiu 69
+p2 produziu 57
+p1 produziu 4
+		c1 consumiu 83
+		c2 consumiu 53
+p2 produziu 56
+p3 produziu 0
+		c1 consumiu 43
+		c2 consumiu 57
+p2 produziu 54
+p1 produziu 9
+		c1 consumiu 4
+		c2 consumiu 56
+p2 produziu 81
+p3 produziu 11
+		c1 consumiu 0
+		c2 consumiu 54
+p2 produziu 87
+p1 produziu 56
+		c1 consumiu 9
+		c2 consumiu 81
+p2 produziu 68
+p3 produziu 6
+		c1 consumiu 11
+		c2 consumiu 87
+p2 produziu 86
+p1 produziu 7
+		c1 consumiu 56
+		c2 consumiu 68
+p2 produziu 78
+p3 produziu 15
+		c1 consumiu 6
+		c2 consumiu 86
+p2 produziu 53
+p1 produziu 14
+		c1 consumiu 7
+		c2 consumiu 78
+p2 produziu 75
+p3 produziu 24
+		c1 consumiu 15
+		c2 consumiu 53
+p2 produziu 65
+p1 produziu 80
+		c1 consumiu 14
+		c2 consumiu 75
+p2 produziu 73
+p3 produziu 6
+		c1 consumiu 24
+		c2 consumiu 65
+p2 produziu 96
+p1 produziu 53
+		c1 consumiu 80
+		c2 consumiu 73
+p2 produziu 63
+p3 produziu 64
+		c1 consumiu 6
+		c2 consumiu 96
+p2 produziu 37
+p1 produziu 16
+		c2 consumiu 53
+		c1 consumiu 63
+p2 produziu 9
+p3 produziu 93
+		c2 consumiu 64
+		c1 consumiu 37
+p2 produziu 20
+p1 produziu 63

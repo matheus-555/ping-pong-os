@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.c": "c",
+        "*.cs": "csharp",
+        "signal.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "ppos_data.h": "c",
+        "time.h": "c",
+        "ppos.h": "c"
+    }
+}

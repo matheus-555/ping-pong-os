@@ -1,0 +1,102 @@
+main: inicio
+T5 enviou 383
+T6 enviou 777
+T7 enviou 793
+		T2: recebeu 383
+		T2: recebeu 777
+		T2: recebeu 793
+		T2: 383+777+793 = 1953.000000 (raiz 44.192760)
+				T3 consumiu 44.192760
+T5 enviou 649
+T5 enviou 362
+T6 enviou 690
+T5 enviou 763
+T7 enviou 540
+		T2: recebeu 649
+		T2: recebeu 362
+		T2: recebeu 690
+		T2: 649+362+690 = 1701.000000 (raiz 41.243181)
+				T4 consumiu 41.243181
+		T2: recebeu 763
+		T2: recebeu 540
+T7 enviou 211
+		T2: recebeu 211
+		T2: 763+540+211 = 1514.000000 (raiz 38.910153)
+				T3 consumiu 38.910153
+T7 enviou 782
+		T2: recebeu 782
+T7 enviou 862
+		T2: recebeu 862
+T6 enviou 67
+		T2: recebeu 67
+		T2: 782+862+67 = 1711.000000 (raiz 41.364236)
+				T4 consumiu 41.364236
+T7 enviou 22
+		T2: recebeu 22
+T6 enviou 69
+		T2: recebeu 69
+T5 enviou 393
+		T2: recebeu 393
+		T2: 22+69+393 = 484.000000 (raiz 22.000000)
+				T3 consumiu 22.000000
+T6 enviou 229
+T5 enviou 421
+T7 enviou 784
+		T2: recebeu 229
+		T2: recebeu 421
+		T2: recebeu 784
+		T2: 229+421+784 = 1434.000000 (raiz 37.868192)
+				T3 consumiu 37.868192
+T7 enviou 315
+T5 enviou 413
+T6 enviou 91
+T5 enviou 956
+		T2: recebeu 315
+		T2: recebeu 413
+		T2: recebeu 91
+		T2: 315+413+91 = 819.000000 (raiz 28.618176)
+				T4 consumiu 28.618176
+T6 enviou 996
+T5 enviou 305
+T7 enviou 84
+T7 enviou 336
+		T2: recebeu 956
+		T2: recebeu 996
+		T2: recebeu 305
+		T2: 956+996+305 = 2257.000000 (raiz 47.507894)
+				T3 consumiu 47.507894
+T6 enviou 313
+T7 enviou 124
+T6 enviou 582
+		T2: recebeu 84
+		T2: recebeu 336
+		T2: recebeu 313
+		T2: 84+336+313 = 733.000000 (raiz 27.073973)
+T5 enviou 814
+				T4 consumiu 27.073973
+T5 enviou 43
+T6 enviou 87
+		T2: recebeu 124
+		T2: recebeu 582
+		T2: recebeu 814
+		T2: 124+582+814 = 1520.000000 (raiz 38.987177)
+T7 enviou 276
+				T3 consumiu 38.987177
+T7 enviou 403
+T5 enviou 754
+Task 2 exit: execution time 16722 ms, processor time     0 ms, 17 activations
+main: destroi queueValores
+main: destroi queueRaizes
+main: fim
+Task 0 exit: execution time 16722 ms, processor time     0 ms, 2 activations
+				T4 terminou
+Task 4 exit: execution time 16722 ms, processor time     0 ms, 10 activations
+T6 terminou
+Task 6 exit: execution time 17120 ms, processor time     0 ms, 11 activations
+				T3 terminou
+Task 3 exit: execution time 17128 ms, processor time     0 ms, 13 activations
+T5 terminou
+Task 5 exit: execution time 17760 ms, processor time     0 ms, 14 activations
+T7 terminou
+Task 7 exit: execution time 18983 ms, processor time     0 ms, 15 activations
+Task 1 exit: execution time 18983 ms, processor time 18983 ms, 82 activations
